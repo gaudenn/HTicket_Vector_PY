@@ -1,0 +1,6 @@
+numpy
+fastapi
+pydantic
+uvicorn
+gensim
+underthesea
